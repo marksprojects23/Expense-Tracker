@@ -27,13 +27,7 @@ I developed with JDK version "21" 2023-09-19 LTS. From the Java Utilities librar
 
 # Future Work
 
-- Stop spending so much time on unnecessary stretch goals.
-- Focus on balancing deadlines and quality work.
-- Structure coding projects from the beginning.
-- Comment as you go, not at the end.
-
-If you meant for my project, then
-- Separate my monolithic code into proper classes.
+- Separate monolithic code into proper classes.
 - Comment every line.
 - Quality of life improvements such as truncating the Total calculation.
 - More aesthetically-pleasing GUI.
