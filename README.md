@@ -6,7 +6,7 @@ I planned to create an expense tracker, a Java-based desktop application that re
 
 The primary motivation behind this software was to dive deeper into Java, a language I've been interested in for a while. It also served as a test of my coding foundations, allowing me to explore various language features and libraries while solving a real-world problem: simplifying expense tracking.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/akttPLXzG2w?si=_cbawv_vQblJ6WL0)
 
 # Development Environment
 
